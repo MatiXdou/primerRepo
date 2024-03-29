@@ -1,0 +1,8 @@
+.formulario{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 5px solid #ccc;
+    border-radius: 10px;
+    background-color: rgb(63, 18, 145);
+}
